@@ -13,3 +13,7 @@ _scripts/*
 _pages/*.md
 _news/*.md
 _projects/*.md
+_config.yml
+_data/**/*.yml
+_includes/**/*.liquid
+_layouts/**/*.liquid
