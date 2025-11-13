@@ -9,17 +9,11 @@ nav_order: 4
 
 ## AI4AI Lab Organization
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center" style="margin-bottom: 2rem;">
-  <div style="display: flex; align-items: center; padding: 1.5rem; border: 1px solid var(--global-divider-color); border-radius: 6px; width: 100%; max-width: 600px;">
-    <a href="https://github.com/ai4ai-lab" target="_blank" style="display: flex; align-items: center; text-decoration: none; width: 100;">
-      <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="AI4AI Lab" style="width: 64px; height: 64px; border-radius: 6px; margin-right: 1rem;">
-      <div>
-        <h3 style="margin: 0; font-size: 1.25rem; color: var(--global-text-color);">ai4ai-lab</h3>
-        <p style="margin: 0.25rem 0 0 0; color: var(--global-text-color-light);">AI for Actionable Impact Lab at Imperial College London</p>
-      </div>
-    </a>
-  </div>
-</div>
+<a href="https://github.com/ai4ai-lab" target="_blank">
+  <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="AI4AI Lab Logo" width="80" style="vertical-align: middle; margin-right: 15px; border-radius: 8px;">
+</a>
+
+Visit the [**AI4AI Lab GitHub Organization**](https://github.com/ai4ai-lab) to explore all our open-source projects and research code.
 
 ---
 
