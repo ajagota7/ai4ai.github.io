@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Advancing AI Safety & Machine Learning Research
+subtitle: <a href='https://www.imperial.ac.uk/computing'>Imperial College London</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AI4AI Research Lab</p>
-    <p>Contact: contact@ai4ai.org</p>
-    <p>GitHub: @ajagota7</p>
+    <p>Assistant Professor</p>
+    <p>Imperial College London</p>
+    <p>s.parbhoo@imperial.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,26 +22,33 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the **AI4AI Research Lab**, where we advance the frontiers of safe and interpretable artificial intelligence.
+Welcome to the **AI for Actionable Impact (AI4AI) Research Lab** at Imperial College London, led by Dr. Sonali Parbhoo.
 
-## Our Mission
+## About
 
-We are dedicated to developing robust, aligned, and transparent AI systems through cutting-edge research in:
+I am an Assistant Professor at Imperial College London, where I lead the AI for Actionable Impact (AI4AI) lab. My research focuses on developing trustworthy and reliable machine learning methods for high-stakes decision-making, particularly in healthcare applications.
 
-- **AI Alignment & Safety**: Developing frameworks and methodologies for ensuring AI systems behave in accordance with human values and intentions
-- **Interpretability**: Understanding neural network behavior through geometric and mechanistic approaches to model transparency
-- **Reinforcement Learning**: Exploring RLHF, reward modeling, and off-policy evaluation techniques for robust learning systems
-- **Causal Representation Learning**: Investigating causal structures in learned representations for more robust and generalizable AI systems
+My work spans **sequential decision-making under uncertainty**, **causal inference**, and **interpretable machine learning** to improve clinical care and deepen our understanding of human health. I develop methods that combine theoretical rigor with practical impact, ensuring that AI systems can be safely deployed in medical decision-making contexts.
 
-## Research Philosophy
+## Research Interests
 
-Our work combines theoretical rigor with practical impact. We believe that understanding the fundamental mechanisms underlying AI behavior is essential for building systems that are both powerful and safe. Through interdisciplinary collaboration and open research, we aim to contribute to the responsible development of artificial intelligence.
+- **Reinforcement Learning & Safe RL**: Off-policy evaluation, decision-focused learning, and safe policy improvement for sequential medical decisions
+- **Causal Inference**: Counterfactual reasoning, causal discovery, and causal Bayesian optimization
+- **Interpretability & Explainability**: Concept bottleneck models, feature importance, and guarantee regions for local explanations
+- **Bayesian Methods**: Uncertainty quantification and robust inference for medical applications
+- **Healthcare AI**: Applications in HIV treatment, critical care (ARDS), and clinical decision support
+
+## Background
+
+I received my PhD (summa cum laude) in 2019 from the University of Basel, Switzerland, where I built intelligent models for understanding the interplay between host and virus in the fight against HIV. I was previously a postdoctoral fellow at Harvard University and a Swiss National Science Fellow. I was named a **Rising Star in AI in 2021**.
+
+My work has been published at leading machine learning conferences (NeurIPS, ICML, AISTATS, AAAI) and medical journals (Nature Medicine, Nature Communications, AMIA, PLoS One, JAIDS). I received the **IBM Best Paper Award for Machine Learning in Healthcare** at NeurIPS ML4H 2016.
 
 ## Join Us
 
-We're always interested in collaborating with researchers and students passionate about AI safety and machine learning. Check out our [publications](/publications/) and [projects](/projects/), or reach out via the contact information below.
+I am actively seeking PhD students interested in reinforcement learning, causal inference, Bayesian methods, and interpretability with applications to healthcare. If you're passionate about developing AI systems that can be safely and effectively deployed in high-stakes medical contexts, please reach out!

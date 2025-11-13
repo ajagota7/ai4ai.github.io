@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: AI4AI Research Lab # the website title (if blank, full name will be used instead)
-first_name: AI4AI
+title: Sonali Parbhoo # the website title (if blank, full name will be used instead)
+first_name: Sonali
 middle_name:
-last_name: Research Lab
+last_name: Parbhoo
 contact_note: >
   Feel free to reach out regarding research collaborations or inquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  AI4AI Research Lab - Advancing the frontiers of AI Safety, Interpretability, and Alignment through cutting-edge machine learning research.
+  AI for Actionable Impact Lab - Developing trustworthy AI systems for healthcare through causal inference, reinforcement learning, and interpretability.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: ai-safety, machine-learning, ai-alignment, interpretability, reinforcement-learning, research-lab # add your own keywords or leave empty
+keywords: machine-learning, healthcare-ai, causal-inference, reinforcement-learning, interpretability, safe-rl, bayesian-methods # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Jagota]
-  first_name: [Arjun, A.]
+  last_name: [Parbhoo]
+  first_name: [Sonali, S.]
 
   style: apa
   locale: en
