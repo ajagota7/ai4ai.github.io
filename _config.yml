@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sonali Parbhoo # the website title (if blank, full name will be used instead)
+title: AI4AI Lab - Sonali Parbhoo # the website title (if blank, full name will be used instead)
 first_name: Sonali
 middle_name:
 last_name: Parbhoo
 contact_note: >
   Feel free to reach out regarding research collaborations or inquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  AI for Actionable Impact Lab - Developing trustworthy AI systems for healthcare through causal inference, reinforcement learning, and interpretability.
+  AI for Actionable Impact Lab at Imperial College London. Led by Dr. Sonali Parbhoo. Developing trustworthy AI systems for healthcare through causal inference, reinforcement learning, and interpretability.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: machine-learning, healthcare-ai, causal-inference, reinforcement-learning, interpretability, safe-rl, bayesian-methods # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ajagota7.github.io # the base hostname & protocol for your site
 baseurl: /ai4ai.github.io # the subpath of your site, e.g. /blog/. Leave blank for root
