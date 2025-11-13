@@ -83,6 +83,28 @@ ninja.data = [{
             window.location.href = "/ai4ai.github.io/blog/2025/alignment-auditor/";
           
         },
+      },{id: "post-improving-ards-diagnosis-through-context-aware-concept-bottleneck-models",
+        
+          title: "Improving ARDS Diagnosis Through Context-Aware Concept Bottleneck Models",
+        
+        description: "Combining ICU data with LLM-extracted concepts from clinical notes and imaging to improve ARDS diagnosis accuracy",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/ai4ai.github.io/blog/2025/ards-diagnosis-cbm/";
+          
+        },
+      },{id: "post-concept-driven-off-policy-evaluation",
+        
+          title: "Concept-Driven Off-Policy Evaluation",
+        
+        description: "Rethinking OPE using interpretable concepts for low-variance, transparent, and actionable evaluation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/ai4ai.github.io/blog/2025/concept-driven-ope/";
+          
+        },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
