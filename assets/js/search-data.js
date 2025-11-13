@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Research code and open-source projects from the AI4AI Lab at Imperial College London.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/ai4ai.github.io/repositories/";
