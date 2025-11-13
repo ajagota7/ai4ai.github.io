@@ -2,7 +2,7 @@
 layout: page
 title: Interpretability & Mechanistic Understanding
 description: Understanding neural networks through geometric and mechanistic approaches
-img: assets/img/projects/interpretability.jpg
+img: assets/img/7.jpg
 importance: 2
 category: research
 related_publications: true

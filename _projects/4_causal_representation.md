@@ -2,7 +2,7 @@
 layout: page
 title: Causal Representation Learning
 description: Investigating causal structures for robust and generalizable AI
-img: assets/img/projects/causal_rep.jpg
+img: assets/img/6.jpg
 importance: 4
 category: research
 related_publications: true

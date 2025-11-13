@@ -2,7 +2,7 @@
 layout: page
 title: AI Alignment & Safety
 description: Developing frameworks for ensuring AI systems align with human values
-img: assets/img/projects/ai_alignment.jpg
+img: assets/img/9.jpg
 importance: 1
 category: research
 related_publications: true

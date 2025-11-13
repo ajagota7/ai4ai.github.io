@@ -2,7 +2,7 @@
 layout: page
 title: Reinforcement Learning from Human Feedback
 description: Exploring RLHF, reward modeling, and robust learning systems
-img: assets/img/projects/rlhf.jpg
+img: assets/img/12.jpg
 importance: 3
 category: research
 related_publications: true
