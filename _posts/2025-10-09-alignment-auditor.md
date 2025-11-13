@@ -5,7 +5,8 @@ date: 2025-10-09 06:41:00
 description: Introducing a new framework for auditing the alignment of Large Language Models through Bayesian inference
 tags: alignment ai-safety llm bayesian-methods
 categories: research-updates
-thumbnail: assets/img/alignment-auditor-framework.jpg
+thumbnail: assets/img/alignment-auditor-framework.jpeg
+related_publications: true
 ---
 
 We're thrilled to share our new paper, **"The Alignment Auditor: A Bayesian Framework for Verifying and Refining LLM Objectives"**! We introduce a novel framework for auditing the alignment of Large Language Models.
@@ -20,7 +21,7 @@ Our framework provides a comprehensive approach to LLM alignment through three k
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/alignment-auditor-framework.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/alignment-auditor-framework.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
