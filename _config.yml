@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: AI4AI Lab # the website title (if blank, full name will be used instead)
-first_name: Sonali
+first_name:
 middle_name:
-last_name: Parbhoo
+last_name:
 contact_note: >
   Feel free to reach out regarding research collaborations or inquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
