@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ajagota7.github.io/sitemap.xml
+Sitemap: https://ajagota7.github.io/ai4ai.github.io/sitemap.xml
