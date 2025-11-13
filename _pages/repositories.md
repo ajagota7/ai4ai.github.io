@@ -2,9 +2,15 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Research code and open-source projects from the AI4AI Lab at Imperial College London.
 nav: true
 nav_order: 4
+---
+
+## AI4AI Lab Organization
+
+Visit the [AI4AI Lab GitHub Organization](https://github.com/ai4ai-lab) to explore all our open-source projects and research code.
+
 ---
 
 {% if site.data.repositories.github_users %}

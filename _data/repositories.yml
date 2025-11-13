@@ -1,5 +1,8 @@
 repo_description_lines_max: 2
 
+github_orgs:
+  - ai4ai-lab
+
 github_repos:
   - Matthieu6/IRL-Alignment-Auditor
   - ai4ai-lab/context-aware-cbms
