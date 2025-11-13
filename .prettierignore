@@ -20,3 +20,4 @@ _includes/**/*.liquid
 _layouts/**/*.liquid
 backup/**
 INSTALL.md
+assets/json/resume.json
