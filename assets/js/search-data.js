@@ -105,38 +105,13 @@ ninja.data = [{
             window.location.href = "/ai4ai.github.io/blog/2025/concept-driven-ope/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/ai4ai.github.io/books/the_godfather/";
-            },},{id: "news-two-papers-accepted-to-aistats-2025-topics-include-safe-policy-improvement-and-shortcut-mitigation",
+      },{id: "news-two-papers-accepted-to-aistats-2025-topics-include-safe-policy-improvement-and-shortcut-mitigation",
           title: 'Two papers accepted to AISTATS 2025! Topics include safe policy improvement and shortcut...',
           description: "",
           section: "News",},{id: "news-ai4ai-lab-website-launched-explore-our-research-in-trustworthy-ai-for-healthcare",
           title: 'AI4AI Lab website launched! Explore our research in trustworthy AI for healthcare.',
           description: "",
-          section: "News",},{id: "projects-ai-alignment-amp-safety",
-          title: 'AI Alignment &amp;amp; Safety',
-          description: "Developing frameworks for ensuring AI systems align with human values",
-          section: "Projects",handler: () => {
-              window.location.href = "/ai4ai.github.io/projects/1_ai_alignment/";
-            },},{id: "projects-interpretability-amp-mechanistic-understanding",
-          title: 'Interpretability &amp;amp; Mechanistic Understanding',
-          description: "Understanding neural networks through geometric and mechanistic approaches",
-          section: "Projects",handler: () => {
-              window.location.href = "/ai4ai.github.io/projects/2_interpretability/";
-            },},{id: "projects-reinforcement-learning-from-human-feedback",
-          title: 'Reinforcement Learning from Human Feedback',
-          description: "Exploring RLHF, reward modeling, and robust learning systems",
-          section: "Projects",handler: () => {
-              window.location.href = "/ai4ai.github.io/projects/3_reinforcement_learning/";
-            },},{id: "projects-causal-representation-learning",
-          title: 'Causal Representation Learning',
-          description: "Investigating causal structures for robust and generalizable AI",
-          section: "Projects",handler: () => {
-              window.location.href = "/ai4ai.github.io/projects/4_causal_representation/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
