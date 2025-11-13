@@ -257,8 +257,8 @@ display_categories: ["research-updates"] # these categories will be displayed on
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Parbhoo]
-  first_name: [Sonali, S.]
+  last_name: []
+  first_name: []
 
   style: apa
   locale: en
