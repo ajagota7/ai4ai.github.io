@@ -2,96 +2,130 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sonali Parbhoo
+    - name: Position
+      value: Assistant Professor, Imperial College London
+    - name: Email
+      value: s.parbhoo@imperial.ac.uk
     - name: Languages
-      value: English, German
+      value: English, Gujarati, Afrikaans, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science (summa cum laude)
+      institution: University of Basel, Switzerland
+      year: 2014 - 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis: Causal Inference and Interpretable Machine Learning for Personalised Medicine"
+        - "Advisors: Prof. Volker Roth and Prof. Niko Beerenwinkel"
+        - Faculty of Science Best Thesis Award Finalist, 2020
+    - title: M.Sc. in Computer Science (with distinction)
+      institution: University of the Witwatersrand, South Africa
+      year: 2012 - 2014
       description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation: A Reinforcement Learning Design for HIV Clinical Trials"
+        - "Advisors: Prof. Clint Van Alten and Pravesh Ranchod"
+        - NRF Scarce Skills Scholarship, Postgraduate Merit Scholarship
+    - title: B.Sc. in Computer Science, Mathematics & Molecular Biology (with distinction)
+      institution: University of the Witwatersrand, South Africa
+      year: 2008 - 2011
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor / Group Leader
+      institution: Imperial College London, School of Electrical and Electronic Engineering
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - AI for Actionable Impact Lab (AI4AI)
+        - Research in trustworthy AI for healthcare
+        - Supervision of PhD and Masters students
+    - title: Associate
+      institution: Harvard University
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Ongoing collaboration and research
+    - title: Postdoctoral Research Fellow
+      institution: Harvard University, John A. Paulson School of Engineering and Applied Sciences
+      year: 2019 - 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - "Advisor: Prof. Finale Doshi-Velez"
+        - Embedded EthiCS Postdoctoral Fellow (2020-2022)
+        - Research in causal inference, interpretable ML, and safe reinforcement learning
+    - title: Research Assistant / Teaching Assistant
+      institution: University of Basel, Department of Mathematics and Informatics
+      year: 2014 - 2019
+      description:
+        - "Advisor: Prof. Volker Roth"
+        - Lectured Scientific Writing course
+        - Teaching assistant for Machine Intelligence and Life Science Informatics
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Harvard CRCS Rising Star in AI
+        - Finalist for Best Paper Award, AMIA Annual Symposium
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Faculty of Science Best Thesis Award Finalist, University of Basel
+    - year: 2019
+      items:
+        - SNSF Early Postdoctoral Mobility Fellowship
+        - NeurIPS Machine Learning for Health Top 5% Reviewer Recognition
+        - NeurIPS Top 400 Reviewer
+    - year: 2018
+      items:
+        - NeurIPS Top 400 Reviewer
+    - year: 2017
+      items:
+        - Finalist for Best Paper in AMIA Clinical Research Informatics
+    - year: 2016
+      items:
+        - IBM Best Paper Award for Machine Learning in Healthcare, NeurIPS
+    - year: 2012-2013
+      items:
+        - NRF Scarce Skills Scholarship, South Africa
+        - Postgraduate Merit Scholarship, University of the Witwatersrand
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Trustworthy AI for Healthcare
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Safe and interpretable reinforcement learning for clinical decision support
+        - Uncertainty quantification in high-stakes medical settings
+        - Fairness and equity in healthcare AI systems
+    - title: Causal Inference & Representation Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Causal discovery and inference for treatment effect estimation
+        - Counterfactual reasoning for personalized medicine
+        - Concept bottleneck models for interpretability
+    - title: Off-Policy Evaluation & Policy Learning
+      items:
+        - Methods for evaluating policies from observational data
+        - Safe policy improvement with guarantees
+        - Decision-focused learning for sequential decision-making
 
-- title: Other Interests
+- title: Professional Service
+  type: nested_list
+  contents:
+    - title: Programme Committee / Reviewer
+      items:
+        - "Conferences: AAAI, ICML, NeurIPS, ICLR, AISTATS, MLHC, ACM CHIL, AMIA"
+        - "Journals: Nature Medicine"
+        - "Workshops: ML4H@NeurIPS"
+    - title: Guest Editor
+      items:
+        - BMJ Health & Care Informatics Special Issue on Operationalising Fairness in Medical Algorithms (2021)
+    - title: Conference Co-organisation
+      items:
+        - German Conference on Pattern Recognition (GCPR), Basel (2017)
+
+- title: Memberships
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Women in Machine Learning (WiML)
+    - Golden Key International Honour Society
