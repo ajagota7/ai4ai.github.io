@@ -17,3 +17,4 @@ _config.yml
 _data/**/*.yml
 _includes/**/*.liquid
 _layouts/**/*.liquid
+backup/**
