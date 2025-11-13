@@ -1,7 +1,13 @@
 github_users:
-  - sonali-parbhoo
+  - ai4ai-lab
 
 repo_description_lines_max: 2
 
 github_repos:
   - Matthieu6/IRL-Alignment-Auditor
+  - ai4ai-lab/context-aware-cbms
+  - ai4ai-lab/mixed-cbm-with-trees
+  - ai4ai-lab/Factored-Action-Spaces-for-OPE
+  - ai4ai-lab/preferential-cbo
+  - ai4ai-lab/Fix-A-Shortcut
+  - ai4ai-lab/regularization_for_shortcut_migtigation
