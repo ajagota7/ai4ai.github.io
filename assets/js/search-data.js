@@ -440,11 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/ai4ai.github.io/books/the_godfather/";
-            },},{id: "news-template-news-item-replace-with-your-actual-lab-announcements-paper-acceptances-or-new-projects",
-          title: 'Template news item: Replace with your actual lab announcements, paper acceptances, or new...',
+            },},{id: "news-two-papers-accepted-to-aistats-2025-topics-include-safe-policy-improvement-and-shortcut-mitigation",
+          title: 'Two papers accepted to AISTATS 2025! Topics include safe policy improvement and shortcut...',
           description: "",
-          section: "News",},{id: "news-ai4ai-research-lab-website-launched-check-out-our-research-areas-and-publications",
-          title: 'AI4AI Research Lab website launched! Check out our research areas and publications.',
+          section: "News",},{id: "news-ai4ai-lab-website-launched-explore-our-research-in-trustworthy-ai-for-healthcare",
+          title: 'AI4AI Lab website launched! Explore our research in trustworthy AI for healthcare.',
           description: "",
           section: "News",},{id: "projects-ai-alignment-amp-safety",
           title: 'AI Alignment &amp;amp; Safety',
@@ -471,14 +471,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%63%6F%6E%74%61%63%74@%61%69%34%61%69.%6F%72%67", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/ajagota7", "_blank");
+          window.open("mailto:%73.%70%61%72%62%68%6F%6F@%69%6D%70%65%72%69%61%6C.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-rss',
@@ -486,6 +479,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/ai4ai.github.io/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=FwEz5s4AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
